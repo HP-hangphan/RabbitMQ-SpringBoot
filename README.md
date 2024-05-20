@@ -1,12 +1,13 @@
 # RabbitMQ
-#Learn RabbitMQ 
+ #### Learn RabbitMQ 
 
-What is RabbitMQ?
+# What is RabbitMQ?
 ![image](https://github.com/HangPhan-18/RabbitMQ-SpringBoot/assets/89575378/940859f0-156b-43f9-a509-0bc8758ad8ab)
 
 
 - RabbitMQ is an open-source message broker software used to tranfer data between processes, applications, systems or servers. RabbitMQ receives messages from different components in a system, stored them safety, and then pushes them to their destinations.
-#Key Features of RabbitMQ
+  
+# Key Features of RabbitMQ
 1. Message Broker
    - RabbitMQ acts an intermediary for messaging, enabling applications to communicate by sending and receiving messages through queues.
 
